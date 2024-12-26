@@ -3,7 +3,17 @@ body {
     margin: 0;
     padding: 0;
     background-color: #f4f4f4;
-}
+    background-image: url(MW-at-Work.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+        
+    }
+h3{
+        margin-left: -70vw;
+        color: silver;
+    }
+
 
 header {
     background-color: #333;
@@ -89,6 +99,13 @@ input[type="submit"]:hover {
         padding: 15px;
         width: 98%;
     }
+    body{
+        background-image: url(MW-at-Work.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-attachment: fixed;
+        
+    }
 
     nav ul li {
         display: inline-block;
@@ -118,7 +135,13 @@ input[type="submit"]:hover {
     body {
         font-size: 14px;
     }
-    
+    body{
+        background-image: url(MW-at-Work.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-attachment: fixed;
+        
+    }
     header {
         padding: 8px;
         width: 100%;
@@ -143,12 +166,15 @@ input[type="submit"]:hover {
     input, textarea {
         font-size: 14px;
     }
-   
+   h3{
+    margin-left: 5px;
+   }
     footer {
         font-size: 12px;
         padding: 8px;
         width: 100%;
         
     }
+   
     
 }
